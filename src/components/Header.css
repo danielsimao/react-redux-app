@@ -1,0 +1,17 @@
+.logoHeaderDiv {
+  position: relative;
+  width: 100vw;
+  height: 10vh;
+  overflow: auto;
+  background-color: black;
+  box-shadow: 0 8px 6px -6px #ffcc69;
+}
+
+.logoHeaderDiv img {
+  float: left;
+  max-height: 100%;
+}
+
+.logoHeaderDiv h3 {
+  color: white;
+}

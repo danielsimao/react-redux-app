@@ -1,0 +1,13 @@
+.logoFooterDiv {
+  position: relative;
+  width: 100%;
+  height: 60px;
+  overflow: hidden;
+  background-color: black;
+  /* 8px 6px -6px */
+  box-shadow: inset 0 18px 5px -16px #ffcc69;
+}
+
+.logoFooterDiv h3 {
+  color: #ffcc69;
+}
